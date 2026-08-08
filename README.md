@@ -1,6 +1,6 @@
 # 🎮 Real-Time Multi-Agent Strategic Navigation using Deep Reinforcement Learning
 
-M.Tech Minor Project | Deep Q-Network (DQN) | Pygame | Multi-Agent Systems | Reinforcement Learning
+M.Tech Final Minor Project | Deep Q-Network (DQN) | Pygame | Multi-Agent Systems | Reinforcement Learning
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
@@ -13,7 +13,7 @@ M.Tech Minor Project | Deep Q-Network (DQN) | Pygame | Multi-Agent Systems | Rei
 
 This project implements a **real-time multi-agent maze environment** where intelligent agents learn strategic navigation and decision-making using **Deep Q-Networks (DQN)**. The system combines reinforcement learning with visual deception, dynamic maze generation, power-ups, enemies, traps, and treasure collection.
 
-The project was developed as part of my **M.Tech (Artificial Intelligence) minor project** and is associated with a **published research paper**.
+The project was developed as part of my **M.Tech (Artificial Intelligence) final minor project** and is associated with a published research work.
 
 ---
 
@@ -64,7 +64,7 @@ The project was developed as part of my **M.Tech (Artificial Intelligence) minor
 ├── LICENSE
 ├── assets/              # Optional: sounds, images, sprites
 ├── models/              # Optional: trained DQN weights
-└── paper/               # Optional: published paper PDF
+└── paper/               # Optional: research paper PDF
 ```
 
 ---
@@ -114,31 +114,9 @@ This work explores:
 
 ---
 
-## 📄 Published Paper
+## 📄 Academic Notice
 
-**Title:** *Add your exact published paper title here*
-
-**Conference / Journal:** *Add conference name*
-
-**Year:** 2026
-
-If available, add the paper PDF in the `paper/` folder and link it here.
-
----
-
-## 📸 Screenshots
-
-### Main Game Screen
-
-_Add screenshot_
-
-### DQN Training / Analytics
-
-_Add screenshot_
-
-### Maze and Power-Ups
-
-_Add screenshot_
+This repository contains the implementation associated with an academic research project. If you use this code or ideas in academic work, please provide appropriate citation and attribution.
 
 ---
 
@@ -150,7 +128,7 @@ _Add screenshot_
 - CVR College of Engineering
 - Hyderabad, India
 
-GitHub: https://github.com/your-username
+
 
 ---
 
